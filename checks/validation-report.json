@@ -1,6 +1,6 @@
 {
   "status": "PASS",
-  "run_time_utc": "2026-11-05T19:39:19.872359+00:00",
+  "run_time_utc": "2026-11-05T22:50:18.863457+00:00",
   "tool": "validate_release.py with Python 3.14.0",
   "files_checked": 28,
   "errors": [],
@@ -26,14 +26,14 @@
     },
     {
       "path": "midi/fdb01-gold-floor/fdb01-gold-floor-combined.mid",
-      "bytes": 7057,
-      "sha256": "89ea801a2d7e8605398cce6012d0809d973bacb43638a9f56499c5c4eff1efe7",
+      "bytes": 6965,
+      "sha256": "9f8c46b413398dadedadaba34d384efbd62be5fcf2ac6ab4a9ae01f8e274141c",
       "errors": []
     },
     {
       "path": "midi/fdb01-gold-floor/principal_motif.mid",
-      "bytes": 731,
-      "sha256": "4e72cba1be6d0daf6c775c0657d7e995772d9c09505cd9d842ca8b458bbadf35",
+      "bytes": 639,
+      "sha256": "50b876e52248dfc342f06eb317a591d461529d8f9a01f6072e04e9e0e2f02abf",
       "errors": []
     },
     {
@@ -68,14 +68,14 @@
     },
     {
       "path": "midi/fdb02-mirror-line/fdb02-mirror-line-combined.mid",
-      "bytes": 7057,
-      "sha256": "5ebf798d4d319b4b816a08e1c8a230f76f2e1400e69a23afef850877484d9412",
+      "bytes": 6966,
+      "sha256": "13887cb1c719eb3b013be0e7ec45e57ec9e3c6baa72737634a6463feb4d56b61",
       "errors": []
     },
     {
       "path": "midi/fdb02-mirror-line/principal_motif.mid",
-      "bytes": 731,
-      "sha256": "9be875976fdb86f3e826ad7c393f748e3ddd2d0973c3e69512ded07dd5cf69b2",
+      "bytes": 640,
+      "sha256": "e75e39eb04cd8916b5c69679f5542b0a1a0f7e1233e15f758c06f4ed18d674ed",
       "errors": []
     },
     {
@@ -110,14 +110,14 @@
     },
     {
       "path": "midi/fdb03-brass-step/fdb03-brass-step-combined.mid",
-      "bytes": 7037,
-      "sha256": "af00755115fb10058b224e1c8efd288363f01a069bdef1698895757a445e1caf",
+      "bytes": 6966,
+      "sha256": "b27460895b1fb287469c92849e7cbbefb0660fefe3ec9a85dfecd9070bd611a2",
       "errors": []
     },
     {
       "path": "midi/fdb03-brass-step/principal_motif.mid",
-      "bytes": 711,
-      "sha256": "48ee28e47bce5ed0a993c4274dc311e301ca93b68888bf06b0f758b414eba50a",
+      "bytes": 640,
+      "sha256": "fc1f2e1cab77742d8ba7854e13fd6d37597cb4455d064cce61a9393e6d69d1c6",
       "errors": []
     },
     {
@@ -152,14 +152,14 @@
     },
     {
       "path": "midi/fdb04-final-spin/fdb04-final-spin-combined.mid",
-      "bytes": 7037,
-      "sha256": "b4fd8a05d7587acc55972e4c2aea066750a410a793537d896b61359f40198d6b",
+      "bytes": 6966,
+      "sha256": "a1389f036657a72455caa84a794e150c128abf8b1485a57b66eac46ac3cc7216",
       "errors": []
     },
     {
       "path": "midi/fdb04-final-spin/principal_motif.mid",
-      "bytes": 711,
-      "sha256": "22b731278646909721c8caaa09ec3466d20f9ae09a964223a3ce6719201e9fdb",
+      "bytes": 640,
+      "sha256": "dd67ed3e0435bfc5c5cc020ecab20b69e038789c4bcd42a57786884ee8360387",
       "errors": []
     },
     {

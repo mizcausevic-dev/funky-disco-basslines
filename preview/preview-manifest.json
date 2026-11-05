@@ -1,9 +1,9 @@
 {
   "label": "preview, not a master.",
   "preview_path": "preview/funky-disco-basslines-simple-synth-preview.mp3",
-  "preview_sha256": "1a8f0af44d060899d14bef0a29551f1f523ac13d68876daf865685052d7cc923",
+  "preview_sha256": "e1779588bf216d1bb61ca3cd4c0a6cae0d8e7a165d9f32d7c8f8a391d2f6ef3d",
   "source_midi_path": "midi/fdb01-gold-floor/fdb01-gold-floor-combined.mid",
-  "source_midi_sha256": "89ea801a2d7e8605398cce6012d0809d973bacb43638a9f56499c5c4eff1efe7",
+  "source_midi_sha256": "9f8c46b413398dadedadaba34d384efbd62be5fcf2ac6ab4a9ae01f8e274141c",
   "renderer": "release-simple-synth 1.0.0",
   "renderer_configuration": {
     "sample_rate": 44100,
@@ -23,7 +23,7 @@
     "end_seconds": 66.207
   },
   "measurement": {
-    "sample_peak": 0.108503,
+    "sample_peak": 0.121054,
     "not_lufs_or_true_peak": true
   },
   "limitations": "Automated generation and decode checks only. Nobody auditioned this simple-synthesis preview. It is not a finished-production sound or master."
