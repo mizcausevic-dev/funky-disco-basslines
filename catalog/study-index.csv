@@ -1,0 +1,5 @@
+study_id,title,collection,tonic,tempo_bpm,meter,ppq,bars,end_tick,combined_path,roles
+fdb01,Gold Floor,pack-local equal-tempered pitch collection,C,116,4/4,480,32,61440,midi/fdb01-gold-floor/fdb01-gold-floor-combined.mid,chord_pulse; sub_bass; principal_motif; vocal_like_synth; counter_texture; drums
+fdb02,Mirror Line,pack-local equal-tempered pitch collection,D#,116,4/4,480,32,61440,midi/fdb02-mirror-line/fdb02-mirror-line-combined.mid,chord_pulse; sub_bass; principal_motif; vocal_like_synth; counter_texture; drums
+fdb03,Brass Step,pack-local equal-tempered pitch collection,F#,116,4/4,480,32,61440,midi/fdb03-brass-step/fdb03-brass-step-combined.mid,chord_pulse; sub_bass; principal_motif; vocal_like_synth; counter_texture; drums
+fdb04,Final Spin,pack-local equal-tempered pitch collection,C#,116,4/4,480,32,61440,midi/fdb04-final-spin/fdb04-final-spin-combined.mid,chord_pulse; sub_bass; principal_motif; vocal_like_synth; counter_texture; drums

@@ -1,0 +1,26 @@
+{
+  "title": "Funky Disco Basslines",
+  "study": "fdb01",
+  "bpm": 116,
+  "source_audio": "preview/funky-disco-basslines-simple-synth-preview.mp3",
+  "source_audio_sha256": "1a8f0af44d060899d14bef0a29551f1f523ac13d68876daf865685052d7cc923",
+  "source_midi": "midi/fdb01-gold-floor/fdb01-gold-floor-combined.mid",
+  "source_midi_sha256": "89ea801a2d7e8605398cce6012d0809d973bacb43638a9f56499c5c4eff1efe7",
+  "source_events": "catalog/note-events.csv",
+  "source_events_sha256": "30f37b44395e7252f8d3a58992545d7b963c1b365e150e030f95f53bcb75dbf0",
+  "art_source_file": "art/hero.jpg",
+  "art_source_sha256": "b5f25ff22ef7eab6f3405f13109d35e7ecb2d886d59b3612e73e3a0220523589",
+  "excerpt_start_seconds": 0,
+  "duration_seconds": 18.0,
+  "video": "film/preview.mp4",
+  "video_sha256": "1b6480ca3426d7f467590e0f54ee0ef324319833cf5fa9853b9579ef81c1680f",
+  "caption": "film/preview.vtt",
+  "resolution": "960x540",
+  "fps": 15,
+  "visualization": "Scrolling note events from the selected score over a moving cover image",
+  "disclosure": "preview, not master",
+  "limitations": [
+    "Simple-synth rendering, not a recorded performance.",
+    "No human listening review recorded."
+  ]
+}
