@@ -198,8 +198,8 @@
     },
     {
       "path": "downloads/funky-disco-basslines-midi.zip",
-      "bytes": 34570,
-      "sha256": "2d379adeed910fa010d038bf12f8a36626ef7ad0e8e55643a0b3dcb2aa0b131c"
+      "bytes": 35557,
+      "sha256": "d95868bc927219ff89bb8f0002ac7951d73775cd535c5258f44048c31faff5d1"
     },
     {
       "path": "film/motion-note-roll.png",
@@ -233,8 +233,8 @@
     },
     {
       "path": "index.html",
-      "bytes": 10789,
-      "sha256": "0779d948b26cf19b496da4d58b6643c0dcf86f2e45836c0f2db077d6eee7c7f8"
+      "bytes": 10979,
+      "sha256": "9851f51043236d2e1ebeb576d67da147d96aa615950b3f238e016040592eb983"
     },
     {
       "path": "midi/fdb01-gold-floor/chord_pulse.mid",
@@ -377,6 +377,11 @@
       "sha256": "ebbfdb75b2182cc0a1169d69ba0657a6db977a752b0f511d7ffa26fc755eba2e"
     },
     {
+      "path": "MIDI-BUYER-LICENSE-v1.0.txt",
+      "bytes": 1652,
+      "sha256": "1111ca6dd4ca4ff4163f199fae341ff54ca3715acc3cf19ca332f2f6e58c36c9"
+    },
+    {
       "path": "preview/funky-disco-basslines-simple-synth-preview.mp3",
       "bytes": 1602499,
       "sha256": "e1779588bf216d1bb61ca3cd4c0a6cae0d8e7a165d9f32d7c8f8a391d2f6ef3d"
@@ -388,8 +393,8 @@
     },
     {
       "path": "README.md",
-      "bytes": 4271,
-      "sha256": "0e6ae73378deb7dfdbe971b4e54f2dac8dc932229ef8c6a73396864b8223f9a6"
+      "bytes": 4386,
+      "sha256": "aa18434937b9c152dd39e7122377212f5d16b16198a070c05460bd5a2c77cc4d"
     },
     {
       "path": "REVISION.md",
